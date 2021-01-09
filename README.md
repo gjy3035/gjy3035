@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm [Junyu Gao](https://github.com/gjy3035)
 
-<!--
-**gjy3035/gjy3035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a Ph.D candidate of Center for Optical Imagery Analysis and Learning ([OPTIMAL](http://www.nwpu-optimal.cn/)) in [NWPU](http://www.nwpu.edu.cn/).
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://github.com/gjy3035">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gjy3035&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gjy3035&layout=compact&langs_count=8&theme=flag-india&count_private=true"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="mailto:gjy3035@gmail.com">Email</a>
+  &nbsp;&nbsp;
+  <a href="https://gjy3035.github.io/">HomePage</a>
+</p>
